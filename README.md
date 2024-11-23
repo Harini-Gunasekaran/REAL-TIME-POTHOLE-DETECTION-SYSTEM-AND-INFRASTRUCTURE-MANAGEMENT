@@ -27,10 +27,10 @@ The model was trained using the following steps:
 <table>
         <tr>
             <td>
-                <img src="assets/gif1.gif" alt="demo gif" height="340">
+                <img src="gif1.gif" alt="demo gif" height="340">
             </td>
             <td>
-                <img src="assets/gif2.gif" alt="demo gif" height="340">
+                <img src="gif2.gif" alt="demo gif" height="340">
             </td>
         </tr>
     </table>
