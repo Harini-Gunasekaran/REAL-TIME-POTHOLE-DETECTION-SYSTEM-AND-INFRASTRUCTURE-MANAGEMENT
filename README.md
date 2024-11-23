@@ -35,6 +35,3 @@ The model was trained using the following steps:
         </tr>
     </table>
 
-## Acknowledgements
-- [Muhammad Moin](https://github.com/MuhammadMoinFaisal) 
-
